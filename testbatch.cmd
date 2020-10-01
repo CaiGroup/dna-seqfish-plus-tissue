@@ -1,0 +1,3 @@
+SETLOCAL
+
+:: test getting txc
