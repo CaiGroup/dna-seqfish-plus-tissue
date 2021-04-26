@@ -6,7 +6,7 @@ September 30, 2020
 * Download all the contents of the folder and add it to your Matlab path.
 
 ### Prerequisites
-* MATLAB 2019
+* MATLAB R2019a
 
 ### Dependencies
 1. radialcenter.m by Dr. Parthasarathy, which can be downloaded [here](https://pages.uoregon.edu/raghu/particle_tracking.html).
@@ -53,7 +53,7 @@ Free for non-commercial and academic research. The software is bound by the lice
 ## Image Processing Team
 * Yodai Takei - writing, cleaning, debugging, and validating code
 * Nico Pierson - writing, cleaning, debugging, and validating code
-* Sheel Shah - decoding, spot finding, and 3D radial center
+* Sheel Shah - decoding, spot finding, and 3D nuclear segmentation
 * Jonathan White - fiduciary alignment
 
 
