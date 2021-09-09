@@ -1,0 +1,33 @@
+{
+    "description": "DNA seqFISH tissue analysis code", 
+    "license": "other-open", 
+    "title": "DNA seqFISH tissue analysis code", 
+    "version": "v1.0", 
+    "upload_type": "software", 
+    "publication_date": "2021-09-09", 
+    "creators": [
+        {
+            "name": "Yodai Takei"
+        }, 
+        {
+            "name": "Nico Pierson"
+        },
+        {
+            "name": "Sheel Shah"
+        },
+        {
+            "name": "Jonathan White"
+        },
+        {
+            "name": "Long Cai"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/CaiGroup/dna-seqfish-plus-tissue/tree/v1.0", 
+            "relation": "isSupplementTo"
+        }
+    ]
+}
