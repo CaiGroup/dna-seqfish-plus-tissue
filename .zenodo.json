@@ -1,7 +1,7 @@
 {
-    "description": "DNA seqFISH tissue analysis code", 
+    "description": "DNA seqFISH+ tissue analysis code and probe sequences", 
     "license": "other-open", 
-    "title": "DNA seqFISH tissue analysis code", 
+    "title": "DNA seqFISH+ tissue analysis code and probe sequences", 
     "version": "v1.0", 
     "upload_type": "software", 
     "publication_date": "2021-09-09", 
