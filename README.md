@@ -1,6 +1,6 @@
 # dna-seqfish-plus-tissue
-This repostory contains the scripts used in processing the images and barcode calling for the DNA seqFISH+ experiment and the source data which consists of the processed data. 
-September 30, 2020
+This repostory contains the scripts used in processing the images and barcode calling for the DNA seqFISH+ analysis and probe sequences used in the study.
+Last updated on September 13, 2021
 
 ## Getting Started
 * Download all the contents of the folder and add it to your Matlab path.
